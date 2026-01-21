@@ -11,6 +11,6 @@ data:
   greeting: "Hello, World!"
   message: "Welcome to Kubernetes ConfigMaps"
   config.txt: |
-  	This is a multi-line
-  	configuration file
-  	stored in a ConfigMap
+    This is a multi-line
+    configuration file
+    stored in a ConfigMap
